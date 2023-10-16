@@ -130,11 +130,11 @@ li {
 	}
 
 	.content{
-		grid-column:1/span 2;
+		grid-column:1/span 3;
 	}
 
 	.aside{
-		grid-column:3/span 2;
+		grid-column:4/span 1;
 	}
 
 	.footer
